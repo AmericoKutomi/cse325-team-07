@@ -10,7 +10,7 @@ A Blazor web application for managing equipment and other assets. Users can regi
 
 # Team Members
 
-Aaron Preston Gravelle
-Americo Sadao Kutomi
-Nsikak Ime Okon
-Prosper Chibuzor Opara
+- Aaron Preston Gravelle
+- Americo Sadao Kutomi
+- Nsikak Ime Okon
+- Prosper Chibuzor Opara
